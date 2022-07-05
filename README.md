@@ -2,10 +2,13 @@
 
 
   How to Run the Code:
-   1. Change your Main Class name to ElectricityBill. (i.e. the Java Class in which you are having the main Method)
+   1. Change your Main Class name to ElectricityBill. Also change the folder name to ElectricityBill (i.e. the Java Class in which you are having the main Method)
    2. Now Copy and Paste all the code to your ElectricityBill Java Class File.
    3. Now you have to run the code.
  
+ Please find the image for seeing the final file structure.
+ 
+![Screenshot13_for_github](https://user-images.githubusercontent.com/42030709/177434292-0b79f5d1-b2fb-433a-8d4c-e39cb54cb0fe.png)
 
 Generation Of Electricity Bill
 
